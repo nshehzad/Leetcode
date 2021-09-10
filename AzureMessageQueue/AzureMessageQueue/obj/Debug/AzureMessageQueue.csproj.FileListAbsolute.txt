@@ -1,0 +1,6 @@
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\bin\Debug\AzureMessageQueue.exe.config
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\bin\Debug\AzureMessageQueue.exe
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\bin\Debug\AzureMessageQueue.pdb
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\obj\Debug\AzureMessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\obj\Debug\AzureMessageQueue.exe
+C:\Users\nshehzad\source\repos\AzureMessageQueue\AzureMessageQueue\obj\Debug\AzureMessageQueue.pdb
