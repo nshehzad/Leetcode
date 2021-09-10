@@ -1,0 +1,13 @@
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.exe
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.dll
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.dll
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.pdb
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
+C:\Users\nshehzad\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\LeetCode.csprojAssemblyReference.cache
